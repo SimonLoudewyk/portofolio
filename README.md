@@ -4,7 +4,6 @@ Halo! Saya Simon, mahasiswa Teknik Informatika. Berikut beberapa proyek saya:
 
 ## Proyek
 - **Aplikasi Deteksi Batik**: YOLOv8 + Android Studio
-- **Web CRUD App**: PHP + MySQL
 - **Deep Learning Project**: TensorFlow SSD MobileNet
 
 ## Kontak
